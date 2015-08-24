@@ -1,2 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 A. so that you can track commits
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+A. Staging area temporarily holds files that are about to be commit. I think its
+just for grouping files :)
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+A. By only putting one change at a time in the staging area
