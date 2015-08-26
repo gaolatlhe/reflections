@@ -13,3 +13,14 @@ A. By only putting one change at a time in the staging area
 What are some situations when branches would be helpful in keeping your history
  organized? How would branches help?
  A. When you want to experiment different ideas
+
+ How do the diagrams help you visualize the branch structure?
+ A. To see the structure and plan your project
+
+ What is the result of merging two branches together? Why do we represent it in
+  the diagram the way we do?
+  A. In a diagram in order to follow. Merging branches result in one file
+
+  What are the pros and cons of Git’s automatic merging vs. always doing merges
+  manually?
+  A. dont know the difference of manu and auto. Maybe auto cannot resolve conflicts
