@@ -9,3 +9,7 @@ Describe the differences between forks, clones, and branches. When would you use
 instead of another?
 A. Forks happen on github, clones on local directory, branches everywhere. You would
 use them on the stated paltforms. 
+
+What is the benefit of having a copy of the last known state of the remote stored 
+locally?
+A. You can merge when there is not internet. Then when you done u can eat doritos :)
